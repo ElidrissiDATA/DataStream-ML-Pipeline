@@ -51,4 +51,7 @@ Les données sont ensuite visualisées avec **Power BI** pour des analyses plus 
 
 ## Algorithme d'Apprentissage par Renforcement
 Un algorithme de **Q-Learning** est utilisé pour recommander le meilleur type de contrat en se basant sur les données d'utilisateurs collectées. Cet algorithme apprend de manière itérative et améliore ses recommandations au fil du temps.
-![Power BI](image/cart.jpg) 
+![Power BI](image/cart.jpg)  
+
+## Conclusion
+Ce projet démontre l'efficacité d'un pipeline de données en temps réel utilisant des technologies modernes telles qu'Apache Kafka et Apache Cassandra pour la collecte, le traitement et le stockage de données. L'intégration d'Apache Airflow pour l'orchestration des tâches permet une automatisation fluide et efficace, tandis que Power BI offre des capacités de visualisation avancées pour l'analyse des données. L'application d'un algorithme d'apprentissage par renforcement, notamment le Q-Learning, pour recommander le meilleur type de contrat, illustre comment les données peuvent être exploitées pour prendre des décisions éclairées. Ce travail ouvre la voie à des améliorations futures et à l'extension des fonctionnalités du projet, notamment en explorant des algorithmes d'apprentissage automatique supplémentaires et en optimisant l'architecture pour des performances encore meilleures.
