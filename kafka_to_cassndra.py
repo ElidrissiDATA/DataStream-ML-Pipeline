@@ -100,4 +100,3 @@ def consume_data():
 
 if __name__ == "__main__":
     consume_data()
-
